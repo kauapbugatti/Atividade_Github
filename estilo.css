@@ -1,0 +1,31 @@
+/* Topo/Logo */
+body{
+    background-color: palegoldenrod;
+}
+
+header{
+    background-color: white;
+}
+
+.frances{
+    width: 500px;
+    border-radius: 10%;
+    border-color: black;
+}
+
+.img{
+    width: 200px;
+    font-size: large;
+}
+
+.img, p{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Produtos/Preços */
+.centro{
+    width: 300px;
+ display: inline;
+}
